@@ -9,7 +9,5 @@ https://arielawidjaja.github.io/dh140a9/
 
 This repository contains an analysis of the prominence of Shakespeare's Romeo and Juliet characters in the first scene of the play. The analysis uses matplotlib.pyplot and networkx to generate plots. Networkx was also used to calculate centrality and modularity.
 
-To open the notebook here, go to _ notebooks
-
 Click here to get an interactive version:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arielawidjaja/dh140a9/HEAD)
